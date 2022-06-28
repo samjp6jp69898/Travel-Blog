@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+  
+  }
+  
+  .home,
+  .notfound,
+  .adventure {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+
+  .notfound {
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+    position: relative;
+    top: -300px;
+    height: 90vh;
+  }

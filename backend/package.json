@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+ 
+  "dependencies": {
+    "express-session": "^1.17.3",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
